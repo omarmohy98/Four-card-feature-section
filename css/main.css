@@ -40,7 +40,7 @@ body {
 .heading-container h2 {
     font-weight: 600;
 }
-.heading-container h3 {
+.heading-container p {
     margin-top: 15px;
     color: var(--grayish-blue);
     font-size: 14px;
@@ -68,7 +68,7 @@ body {
     font-weight: 600;
     font-size: 18px;
 }
-.card-conatiner .card h5 {
+.card-conatiner .card p {
     font-size: 14px;
     font-weight: 400;
     color: var(--grayish-blue);

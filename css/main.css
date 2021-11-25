@@ -63,7 +63,7 @@ body {
     position: relative;
     border-top: 5px solid;
 }
-.card-conatiner .card h4 {
+.card-conatiner .card h3 {
     color: var(--very-dark-blue);
     font-weight: 600;
     font-size: 18px;
